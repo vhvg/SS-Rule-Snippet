@@ -35,5 +35,9 @@ DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,deepdyve
 DOMAIN-KEYWORD,els-cdn
 
+## Web of Science 旗下
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,webofknowledge.com
+
 ## 告别出版商绑架
 DOMAIN-KEYWORD,sci-hub
