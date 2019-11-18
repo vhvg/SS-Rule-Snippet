@@ -39,5 +39,9 @@ DOMAIN-KEYWORD,els-cdn
 DOMAIN-SUFFIX,webofscience.com
 DOMAIN-SUFFIX,webofknowledge.com
 
+## SAGE
+DOMAIN-SUFFIX,sagepub.com
+DOMAIN-KEYWORD,cnpereading
+
 ## 告别出版商绑架
 DOMAIN-KEYWORD,sci-hub
